@@ -1,3 +1,8 @@
+
+编译并使用programs/ssl/dtls_client.c，作为liteos上dtls服务的客户端demo
+
+
+
 README for mbed TLS
 ===================
 
